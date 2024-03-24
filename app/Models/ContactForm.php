@@ -19,3 +19,5 @@ class ContactForm extends Model
         'contact',
     ];
 }
+
+
